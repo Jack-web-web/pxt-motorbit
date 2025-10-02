@@ -336,7 +336,7 @@ export function StepperDegree(index: Steppers, degree: number): void {
     }
     setStepper(index, degree > 0);
     degree = Math.abs(degree);
-    basic.pause(10240 * degree / 360);
+    //basic.pause(10240 * degree / 360);
     MotorStopAll()
 }
 
