@@ -1,11 +1,11 @@
 {
     "name": "motorbit",
     "version": "1.0.0",
-    "description": "motorbit emakefun",
+    "description": "motorbit Jack-web-web",
     "dependencies": {
         "core": "*",
-        "irRemote": "github:emakefun/pxt-irRemote",
-        "Sensorbit": "github:emakefun/pxt-sensorbit"
+        "irRemote": "github:Jack-web-web/pxt-irRemote",
+        "Sensorbit": "github:Jack-web-web/pxt-sensorbit"
     },
     "files": [
         "README.md",
